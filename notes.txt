@@ -1,0 +1,87 @@
+Today, Im going to talk about scenario planning, which is an alternative way for deailing with uncertainity in the decision making process.
+
+
+
+Uncertainty is commonly encountered in many decision making processes. For example, as future engineering graduates im sure some people are uncertain about whether theyll graduate next year. When you are making plans for next year, you will have to factor this uncertainity into your decision making process.
+
+Also, as mentioned in previous talks, another uncertainity in the DM process which must be considered is the seismic activity which nuclear storage sites may be affected by.
+
+
+
+Uncertainity is very hard for humans to deal with since we are notorously bad at dealing with probabilities and the future. Sometimes, incorrectly dealing with uncertainity can have dire consequences. On the 2nd of August, 1990, Saddam Hussein invaded Kuwait, catching the United States totally of gaurd. Leading up to this event, various intelligence agencies pressented president Bush (a very smart man), with a list of actions and decisisons the united states could take. None of these agencies had the possiblity of attack as a first choice, despite their being many vocal proponents of this option.
+
+The main suggested reason for this is Groupthink. This is the process in which thinking and decisions made by a group which once had a diverse range of opinions, becomes homogenious. This occurs when minority opinions held by individuals are overrun by the majority opinion in the group.
+
+
+
+Scenario Planning is a possible technique which can be used to mitigate these effects and reduce the possiblity of Groupthink.
+
+It involves building a set of possible scenarios which bound the entire set of possible scenarios. Once these scenarios have been built, possible actions can be planned in the event of each scenario.
+
+The process of building the scenarios is carried out with a large group involved in the decision making process. This group process is often run by someone experience in DM techniques, allowing minority opinions in the group to be given adequate airtime. Also, it is notoriously difficulty to predict the future, and by building scenarios which bound the set of possibilities, future predictions becomes much more coarse and easier to make. And by allowing getting the group to participate in this proccess, it allows members to explore the problem space more thoroughly.
+
+
+
+We will discuss two suggested methods for scenarion planning, the first of which is called the extreme worlds method.
+
+This method involves developing two possible extreme worlds: one in which everything positive that could happen, does happen, and the opposite world containing every possible negative thing that could go wrong.
+
+This method is formalised as a set of eight steps, and given to you on your hand outs. These steps are usually carried out in a group using post-it notes on a white board. During this process, it is common to retrace steps as more of hte problem space is uncovered.
+
+
+
+To demonstrate this process, Im going to run through an example concerning Fonterra. Fonterra is a multinational New Zealand dairy monopoly with over $20 billion dollars of revenue per year. They are a major contributer to the New Zealand economy and are responsible for over 30% of the world's dairy production. Also notable are the recent Botulism scares which Fonterra has had, and the impact this has had on milk powder exports. This highlights the importance to the success of Fonterra of maintaining a high quality product.
+
+
+
+Without further a due, lets begin the scenario planning proccess. The first step is to identify the concern and horizon. The concern is the objective we seek during the decision making proccess, and the horizon is the time frame over which we are concerned with. Both of these are important as the scenarios we build must revolve around the concerns, and be realisable within the horizon's time frame.
+
+In our example, the concern will be the survival and profitability of Fonterra as a company. And the horizon for this problem is 10 years from now.
+
+
+
+Now that we have identified the concern and horizon, the second step involves identifying possible trends that may affect the concern within the given horizon. For Fonterra, these trends are increasing dairy production, a preference to buy NZ products due to our clean and green image, a growing Asian consumer market, and the continuing concern of climate change affecting dairy production.
+
+
+
+Once the key trends have been identified, the next step is to identify key uncertainities which may affect the concern in the given time frame. Uncertainties considered must be resolved (or in other words have some sort of outcome) within the given time frame.
+
+The uncertainties identified here which may affect Fonterra's survival and profitability are: the ability to maintain consistently high quality products, the strength of the NZ dollar, the ability for Fonterra to maintain its current monopoly in NZ, and the possibility of NZ government implmenting some sort of Fart Tax on cows.
+
+Notice how these uncertainties differ from the trends previously identified in that they can be resolved in one way or another: for example, the NZ government will either pass a cow fart tax within the time frame, or they wont.
+
+(Say something about going back to trends phase?)
+
+
+
+The fourth step now involves identifying the impacts of both the trends and uncertainties on the concern. These impacts are generally classified very simply as either very positive, positive, nuetral, negative, or very negative.
+
+For our example, the first three trends have a positive impact on the concern, while the last trend is negative.
+
+
+
+For the uncertainties, we must first consider each possible outcome for each uncertainty, and then consider the impact of this outcome.
+
+So for example, the strength of the NZ dollar, or in other words its value compared to the US dollar, can either in general, become higher, remain as it is, or become lower. If the NZ dollar becomes stronger, this is worse for exporters such as Fonterra since the price of NZ products in other companies becomes higher. Therefore, this has a negative impact on Fonterra as a company. On the other hand, if the NZ dollar becomes weaker then this is very good for Fonterra as their products become cheaper in other countries, which means that consumers will likely chose their product.
+
+This is done for each uncertaintity which is shown here. It can be noted that some alternatives have only two possible outcomes, such as the ability for Fonterra to hold the NZ monpoly, while others can have more.
+
+
+
+Now we have fully identified the trends and uncertainties which are possible in the future, and their impact on the concern, we can use them to build two extreme worlds. These extreme worlds should bound the entire set of possible worlds.
+
+The first extreme world we build is the extreme positive world. In this world, every single uncertainity is resolved positively. This corresponds to the best case scenario.
+
+So using our identified uncertainites, a summary of this world is on in which: Fonterra's products remain consistently high quality, the strength of the NZ dollar weakens, meaning exports are cheaper in other countries, Fonterra continues to maintain a New Zealand monopoly, and no Fart Tax is placed on cow emissions.
+
+
+
+The other extreme world is the extreme negative world, which is the pollar opposite of the extreme positive world. In this world, all possible uncertainities are resolved negatively. In this world, Fonterra's product quality and reputation has been damaged by another Botulism scare, the NZ dollar strenghtens, Fonterra is broken up the NZ government loosing its NZ monpoly, and a high fart tax is passed in NZ.
+
+
+
+The trends previously identified can now be added to the two extreme worlds. In our example, two of the trends identified were a high demand for dairy products and a preference for NZ dairy products. Adding these trends to the extreme positive world would probably mean that Fonterra is likely to be highly profitable. Another trend was the concern that climate change has on dairy production. Adding this trend, we can see that a plausible mitigation to this concern is the invention of new sequestration technology which migitage the issues of climate change.
+
+
+
+Applying the same procedure to the extreme negative world has a different affect. Despite the high demand and preference for NZ dairy products, Asian markets seek cheaper and more trusted sources 
